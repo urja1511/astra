@@ -1,1 +1,1 @@
-# astra
+# open readme.pdf
